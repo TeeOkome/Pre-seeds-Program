@@ -19,31 +19,6 @@ It started as a beginner course designed to equip **aspiring researchers** with 
    - **Research Software Engineers (RSEs)**: Providing foundational knowledge of research for new hires, with the aim of acclimatising them to the new work environment.
    - **Other use cases**: Open to additional applications as the program evolves.
 
-
-
-Here's a revised README that conveys how contributors can help in a positive, collaborative manner, along with a clear roadmap:
-
----
-
-# Pre-Openseeds Research Training Program
-
-Welcome to the Pre-Openseeds Research Training Program repository! This initiative is dedicated to making research training accessible and inclusive for diverse audiences, including aspiring researchers, citizen scientists, professionals, and more.
-
-## Project Overview
-
-The Pre-Openseeds program is evolving from an initial cohort-based concept into a flexible, modular structure. This allows us to cater to various learning needs and backgrounds, making research skills accessible to everyone.
-
-### Key Features
-
-1. **Modular Structure**: Standalone modules covering specific research aspects, allowing learners to tailor their learning experience.
-   
-2. **Diverse Use Cases**:
-   - **Cohort-Based Training**: For those early in their research careers.
-   - **Citizen Science**: Empowering everyday individuals to participate in scientific research.
-   - **Professional Development**: Enhancing research skills across various fields.
-   - **Research Software Engineers**: Providing foundational skills for new hires.
-   - **Additional Applications**: Open to further expansion and customization.
-
 ## How You Can Contribute
 
 We believe in the power of collaboration and invite you to join us in shaping this program. Here are some ways you can get involved:
