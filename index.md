@@ -2,13 +2,13 @@
 
 ## The Why
 
-OLS strives toward a future where research is open, diverse, and inclusive. So far, we've made significant strides through our cohort-based programs, aimed at empowering researchers to apply Open Science principles in their work.
+[OLS](http://we-are-ols.org/) strives toward a future where research is open, diverse, and inclusive. So far, we've made significant strides through our cohort-based programs, aimed at empowering researchers to apply Open Science principles in their work.
 
-However, a concern is that we meet researchers at a certain stage in their careers. This begs the question: “What is the plan for those who haven’t quite found their footing?”
+However, a concern is that we meet researchers at a certain stage in their careers. This begs the question: **“What is the plan for those who haven’t quite found their footing?”**
 
 This question weighs more on us, especially considering the barriers faced by individuals from underrepresented groups. We recognize the need for support and encouragement at earlier stages in their journeys.
 
-Hence, we propose a new initiative: a beginner course designed to equip aspiring researchers with the knowledge, skills, and tools to embark on their journey. This course will serve as a stepping stone, preparing individuals for the more advanced concepts covered in our flagship programs like Open Seeds and Nebula.
+Hence, we propose a new initiative: a beginner course designed to equip aspiring researchers with the knowledge, skills, and tools to embark on their journey. This course will serve as a stepping stone, preparing individuals for the more advanced concepts covered in our flagship programs like [Open Seeds](https://we-are-ols.org/openseeds/) and [Nebula](https://we-are-ols.org/nebula).
 
 The goal of this program is to non-violently push individuals to a point where they feel confident and ready to work openly. Perhaps, this is a way to broaden our reach and do greater good.
 
