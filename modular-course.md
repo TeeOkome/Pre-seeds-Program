@@ -98,65 +98,65 @@ The following is an overview of the topics to be covered in this course.  Each 
 **Certification! 🎓**
 
 ## Learning outcomes
-### Module 0: Welcome!**
+### Module 0: Welcome!
   * At the end of module 0, participants will:
     * Become familiar with the course structure, schedule, and expectations. This preparation will facilitate engagement in the program.
     * Connect with the organisers and fellow coursemates, in order to establish a collaborative and supportive learning community.
     * Reflect on their motivation for joining the course and set personal goals for their learning journey.
-### Module 1: Understanding Research**
+### Module 1: Understanding Research
   * At the end of this module, learners will be able to:
     * Articulate a clear definition of research, and an understanding of its purpose.
     * Describe the steps involved in conducting research.
     * Distinguish between different types of research methodologies, such as exploratory, descriptive, experimental approaches, etc.
-### Module 2: Formulating Research Questions**
+### Module 2: Formulating Research Questions
   * At the end of this module, learners will be able to:
     * Explain the significance of research questions in guiding the research process.
     * Recognise how well-crafted questions contribute to the clarity and focus of a study.
     * Discuss the characteristics of good research questions.
     * Employ various techniques for formulating research questions through hands-on exercises.
-### Module 3: Literature Review and Background Research**
+### Module 3: Literature Review and Background Research
   * At the end of this module, learners will be able to:
     * Grasp the purpose and significance of conducting a literature review.
     * Describe the role of literature review in contextualising research, and informing the direction of their own study.
     * Demonstrate practical skills in searching and accessing scholarly literature using various resources.
     * Identify key themes in research publications, as well as the existing knowledge gap.
-### Module 4: Research Design**
+### Module 4: Research Design
   * At the end of this module, learners will be able to:
     * Grasp the fundamental concepts of research design, distinguishing between the various types, with an understanding of the advantages and limitations.
     * Identify and differentiate between variable types, understanding their roles in experimental studies and their impact on research outcomes.
     * Describe the sampling techniques, and their applicability to different research contexts.
-### Module 5: Data Collection Methods**
+### Module 5: Data Collection Methods
   * At the end of this module, learners will be able to:
     * Understand the data collection methods, learn how to design, administer, and analyse survey instruments effectively.
     * Differentiate between structured and semi-structured interviews, describing when and how to use each approach.
     * Describe how to systematically observe and record behaviours or phenomena in natural or controlled settings.
     * Evaluate the causal relationships between variables and the importance of experimental design, control, and manipulation of variables for valid and reliable results.
-### Module 6: Data Analysis**
+### Module 6: Data Analysis
   * At the end of this module, learners will be able to:
     * Provide a basic overview of the data analysis techniques, and their usefulness in deriving meaningful insights from research findings.
     * Explain the measures of central tendency and variability, highlighting how they enable researchers to summarise and interpret data distributions effectively.
     * Grasp the basics of inferential statistics, including hypothesis testing and significance levels, using them to make informed conclusions and decisions based on sample data.
-### Module 7: Research Ethics**
+### Module 7: Research Ethics
   * At the end of this module, learners will be able to:
     * Discuss ethical considerations inherent in research, recognising the importance of maintaining integrity and protecting the rights and welfare of research participants.
     * Understand the principles of informed consent and confidentiality, how to obtain it voluntarily from participants and safeguard their privacy throughout the research process.
     * Express knowledge of the Institutional Review Board (IRB) approval process, and understand its role in ensuring research compliance with ethical standards and regulations.
-### Module 8: Writing and Presenting Research**
+### Module 8: Writing and Presenting Research
   * At the end of this module, learners will be able to:
     * Outline the structural components of a research paper, as it relates to organising research findings.
     * Discuss academic writing style conventions and citation formats (e.g., APA, MLA) for proper attribution of sources.
     * Through hands-on activities and peer feedback, learners will develop essential skills in writing and presenting research, honing their abilities to communicate their findings clearly, logically, and persuasively to academic audiences.
-### Module 9: Presenting Research**
+### Module 9: Presenting Research
   * At the end of this module, learners will be able to:
     * Demonstrate proficiency in creating engaging and informative presentation slides, incorporating visual aids and multimedia elements to enhance audience comprehension and engagement.
     * Develop effective public speaking skills, mastering techniques for delivering presentations confidently, articulately, and persuasively.
     * Refine their ability to listen actively and respond to questions, comments and feedback gracefully and professionally.
-### Module 10: Project Management and Time Management**
+### Module 10: Project Management and Time Management
   * At the end of this module, learners will be able to:
     * Employ acquired project management skills needed for planning and executing research projects.
     * Demonstrate competency in time management, utilizing strategies to prioritise tasks, manage deadlines, and balance competing demands effectively throughout the research process.
     * Appreciate the need for resilience and adaptability; know how to adjust plans as needed to navigate setbacks and unforeseen challenges in research projects.
-### Module 11: Peer Review and Revision**
+### Module 11: Peer Review and Revision
   * At the end of this module, learners will be able to:
     * Recognise the significance of peer review in ensuring the quality of research outputs; understand its role in providing constructive feedback, identifying strengths and weaknesses, and promoting accountability and transparency in scholarly endeavours.
     * Cultivate effective strategies for giving and receiving constructive feedback, honing their abilities to provide thoughtful critiques, offer actionable suggestions, and communicate feedback in a professional and respectful manner.
