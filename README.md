@@ -19,6 +19,9 @@ It started as a beginner course designed to equip **aspiring researchers** with 
    - **Research Software Engineers (RSEs)**: Providing foundational knowledge of research for new hires, with the aim of acclimatising them to the new work environment.
    - **Other use cases**: Open to additional applications as the program evolves.
 
+## Roadmap
+See our [roadmap](roadmap.md) for more details.
+
 ## How You Can Contribute
 
 We believe in the power of collaboration and invite you to join us in shaping this program. Here are some ways you can get involved:
