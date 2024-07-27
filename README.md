@@ -1,6 +1,6 @@
 # Pre-Openseeds Research Training Program
 
-Welcome! This repo houses a vision of making the research landscape more equitable and diverse - a “Research 101” course, undergoing development. This project aims to provide accessible and flexible research training for diverse audiences, including aspiring researchers, citizen scientists, professionals, and more.
+Welcome! This repository houses a vision of making the research landscape more equitable and diverse - a “Research 101” course, undergoing development. This project aims to provide accessible and flexible research training for diverse audiences, including aspiring researchers, citizen scientists, professionals, and more.
 
 ## Project Overview
 
@@ -18,6 +18,43 @@ It started as a beginner course designed to equip **aspiring researchers** with 
    - **Professional development**: Enhancing research skills for various professional fields.
    - **Research Software Engineers (RSEs)**: Providing foundational knowledge of research for new hires, with the aim of acclimatising them to the new work environment.
    - **Other use cases**: Open to additional applications as the program evolves.
+
+
+
+Here's a revised README that conveys how contributors can help in a positive, collaborative manner, along with a clear roadmap:
+
+---
+
+# Pre-Openseeds Research Training Program
+
+Welcome to the Pre-Openseeds Research Training Program repository! This initiative is dedicated to making research training accessible and inclusive for diverse audiences, including aspiring researchers, citizen scientists, professionals, and more.
+
+## Project Overview
+
+The Pre-Openseeds program is evolving from an initial cohort-based concept into a flexible, modular structure. This allows us to cater to various learning needs and backgrounds, making research skills accessible to everyone.
+
+### Key Features
+
+1. **Modular Structure**: Standalone modules covering specific research aspects, allowing learners to tailor their learning experience.
+   
+2. **Diverse Use Cases**:
+   - **Cohort-Based Training**: For those early in their research careers.
+   - **Citizen Science**: Empowering everyday individuals to participate in scientific research.
+   - **Professional Development**: Enhancing research skills across various fields.
+   - **Research Software Engineers**: Providing foundational skills for new hires.
+   - **Additional Applications**: Open to further expansion and customization.
+
+## How You Can Contribute
+
+We believe in the power of collaboration and invite you to join us in shaping this program. Here are some ways you can get involved:
+
+1. **Curriculum development**: Review existing content and/or contribute to creating new modules.
+2. **Funding**: Support the program financially or help us identify funding opportunities.
+3. **Grant writing**: Help us secure funding by writing or assisting with grant applications.
+4. **Partnerships**: Collaborate with us to deliver the course (in a cohort-based training or workshop format) or connect us with organisations and individuals who could benefit.
+5. **Hosting**: Host this program on your educational platform.
+7. **Publicity**: Spread the word about the program and its potential impact!
+
 
 ## Contact
 
