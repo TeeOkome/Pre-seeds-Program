@@ -6,7 +6,7 @@ Welcome! This repository houses a vision of making the research landscape more e
 
 The Pre-Openseeds program is in the early stages of development, and is evolving as it grows.
 
-It started as a beginner course designed to equip **aspiring researchers** with the foundational knowledge, skills and tools to embark on their journey. Gradually, it has morphed from the initial concept of a cohort-based training program to a modular course structure. This approach allows for greater flexibility and inclusivity, catering to different learning needs and backgrounds.
+It started as a beginner course designed to equip **aspiring researchers** with the foundational knowledge, skills and tools to embark on their journey. Gradually, it has morphed from the initial concept of a [cohort-based](cohort-based.md) training program to a [modular](modular-course.md) course structure. This approach allows for greater flexibility and inclusivity, catering to different learning needs and backgrounds.
 
 ### Key Features
 
