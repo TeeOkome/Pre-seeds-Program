@@ -48,3 +48,63 @@ The course addresses skill gaps, enhances career prospects, supports informed de
 
 The overarching goal is to improve the quality of research education, encourage innovation in teaching, and support lifelong learning.
 
+
+## Course Outline
+The following is an overview of the topics to be covered in this course.  Each unit will include relevant theory, current research, and its application.
+
+* Module 1: Understanding Research
+  * Introduction to research: What is research?
+  * The research process: Steps involved in conducting research
+  * Types of research: Exploratory, descriptive, experimental, and qualitative vs. quantitative research. Strengths, limitations, and applications in various disciplines.
+* Module 2: Formulating Research Questions
+  * Importance of research questions
+  * Characteristics of good research questions (including specificity, relevance, and feasibility).
+  * Techniques for formulating research questions
+* Module 3: Literature Review and Background Research
+  * Purpose and significance of literature review.
+  * Searching and accessing scholarly literature (library resources, computerised databases, and web-based resources).
+  * Synthesising information, identifying gaps in existing research and determining the direction of a study.
+* Module 4: Research Design
+  * Basics of research design: Experimental vs. non-experimental designs
+  * Variables: Independent, dependent, and control variables
+  * Sampling techniques: Random sampling, stratified sampling, convenience sampling.
+* Module 5: Data Collection Methods
+  * Surveys and questionnaires
+  * Interviews: Structured vs. semi-structured
+  * Observational research
+  * Experimental methods
+* Module 6: Data Analysis
+  * Introduction to data analysis
+  * Descriptive statistics: Measures of central tendency (mean, median, mode) and variability (range, standard deviation).
+  * Inferential statistics: Introduction to hypothesis testing and significance levels
+* Module 7: Research Ethics
+  * Ethical considerations in research
+  * Informed consent and confidentiality
+  * Institutional Review Board (IRB) approval process
+* Module 8: Writing and Presenting Research
+  * Structure of a research paper: Introduction, methods, results, discussion, and conclusion
+  * Academic writing style and citation formats (e.g., APA, MLA)
+* Module 9: Presenting Research
+  * Effective presentation skills: Creating slides, delivering presentations, and responding to questions
+* Module 10: Project Management and Time Management
+  * Planning and managing a research project
+  * Setting timelines and milestones
+  * Dealing with setbacks and adjusting plans as needed
+* Module 11: Peer Review and Revision
+  * Importance of peer review in research
+  * Strategies for giving and receiving constructive feedback
+  * Revising and improving research projects based on peer feedback
+
+**Certification! 🎓**
+
+## Learning outcomes
+* Module 0: Welcome!
+  * At the end of module 0, participants will:
+    * Become familiar with the course structure, schedule, and expectations. This preparation will facilitate engagement in the program.
+    * Connect with the organisers and fellow coursemates, in order to establish a collaborative and supportive learning community.
+    * Reflect on their motivation for joining the course and set personal goals for their learning journey.
+* Module 1: Understanding Research
+  * At the end of this module, learners will be able to:
+    * Articulate a clear definition of research, and an understanding of its purpose.
+    * Describe the steps involved in conducting research.
+    * Distinguish between different types of research methodologies, such as exploratory, descriptive, experimental approaches, etc.
