@@ -1,6 +1,6 @@
 # Pre-Openseeds Research Training Program
 
-Welcome! This repository houses a vision of making the research landscape more equitable and diverse - a “Research 101” course, undergoing development. This project aims to provide accessible and flexible research training for diverse audiences, including aspiring researchers, citizen scientists, professionals, and more.
+Welcome! This repository houses a vision of making the research landscape more equitable and diverse - a “**Research 101” course**, undergoing development. This project aims to provide accessible and flexible research training for diverse audiences, including aspiring researchers, citizen scientists, professionals, and more.
 
 ## Project Overview
 
