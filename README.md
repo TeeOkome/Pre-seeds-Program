@@ -24,14 +24,7 @@ See our [roadmap](roadmap.md) for more details.
 
 ## How You Can Contribute
 
-We believe in the power of collaboration and invite you to join us in shaping this program. Here are some ways you can get involved:
-
-1. **Curriculum development**: Review existing content and/or contribute to creating new modules.
-2. **Funding**: Support the program financially or help us identify funding opportunities.
-3. **Grant writing**: Help us secure funding by writing or assisting with grant applications.
-4. **Partnerships**: Collaborate with us to deliver the course (in a cohort-based training or workshop format) or connect us with organisations and individuals who could benefit.
-5. **Hosting**: Host this program on your educational platform.
-7. **Publicity**: Spread the word about the program and its potential impact!
+We believe in the power of collaboration and invite you to join us in shaping this program. To find out how you can get involved, read our [CONTRIBUTING.md](CONTRIBUTING.md) file.
 
 
 ## Contact
