@@ -9,7 +9,7 @@ This initiative is deeply inspired by the capacity building work being done by [
 ## Introduction to Research Methods
 **Course Information**
 * Course Title: Beginner’s Guide to Research Methods
-* Prepared By: Open Life Science
+* Prepared By: Are you interested in contributing? Please, get in touch!
 * Contact Hours: Self-paced with a flexible timeline.
 * Recommended Texts: 
 
