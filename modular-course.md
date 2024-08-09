@@ -36,7 +36,7 @@ It can potentially enhance public understanding of science, improve community en
 
 **3. Newly Hired Research Software Engineers (RSEs):**
 
-**Objective:** Equip new RSEs with foundational research skills during the first few months on the job.
+**Objective:** Equip new RSEs (from non-research or non-academic backgrounds) with foundational research skills during the first few months on the job.
 
 This reduces the gap between technical expertise and research acumen.
 
@@ -46,7 +46,7 @@ The course can significantly accelerate onboarding, enhance collaboration with r
 
 **Objective:** To provide a comprehensive research training program that supports the professional growth of individuals in various fields, enabling them to integrate research skills into their work and advance their careers.
 
-Target audience ranges from educators and health professionals to cooperate employees, entrepreneurs and business leaders.
+Target audience ranges from educators and health professionals to corporate employees, entrepreneurs and business leaders.
 
 The course addresses skill gaps, enhances career prospects, supports informed decision-making, and promotes innovation. The benefit is that it equips professionals with research skills, improves industry practices, fosters data-driven strategies, and encourages continuous improvement and innovation across various fields.
 
