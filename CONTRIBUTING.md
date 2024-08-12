@@ -1,4 +1,4 @@
-# How to contribute?
+## What can I do to help the project?
 
 You can get involved in the following ways:
 
@@ -8,3 +8,5 @@ You can get involved in the following ways:
 4. **Partnerships**: Collaborate with us to deliver the course (in a cohort-based training or workshop format) or connect us with organisations and individuals who could benefit.
 5. **Hosting**: Host this program on your educational platform.
 7. **Publicity**: Spread the word about the program and its potential impact!
+
+## How can I get started with contributing?
