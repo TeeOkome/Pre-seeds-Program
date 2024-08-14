@@ -10,3 +10,5 @@ You can get involved in the following ways:
 7. **Publicity**: Spread the word about the program and its potential impact!
 
 ## How can I get started with contributing?
+
+1. Create an issue.
