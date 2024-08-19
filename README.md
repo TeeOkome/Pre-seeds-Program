@@ -14,16 +14,15 @@ It started as a beginner course designed to equip **aspiring researchers** with 
    
 2. **Diverse use cases**:
    - **Cohort-based training**: Aimed at aspiring researchers or individuals early in their research careers. The course can be delivered in a structure similar to [Open Seeds](http://we-are-ols.org/openseeds) or [Nebula](http://we-are-ols.org/nebula).
+   - **Research Software Engineers (RSEs)**: Providing foundational knowledge of research for new hires, especially RSEs who do not come from academic or research backgrounds, with the aim of acclimatising them to the new work environment.
    - **Citizen Science**: Empowering individuals who have little to no previous knowledge of research to engage in scientific research.
-   - **Professional development**: Enhancing research skills for various professional fields (especially RSEs who do not come from research backgrounds).
-   - **Research Software Engineers (RSEs)**: Providing foundational knowledge of research for new hires, with the aim of acclimatising them to the new work environment.
+   - **Professional development**: Enhancing research skills for various professional fields.
    - **Other use cases**: Open to additional applications as the program evolves.
 
 ## Roadmap
 See our [roadmap](roadmap.md) for more details.
 
 ## How You Can Contribute
-
 We believe in the power of collaboration and invite you to join us in shaping this program. To find out how you can get involved, read our [CONTRIBUTING.md](CONTRIBUTING.md) file.
 
 
