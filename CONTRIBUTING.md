@@ -2,7 +2,7 @@
 
 You can get involved in the following ways:
 
-1. **Curriculum development**: Review existing content and/or contribute to creating new modules.
+1. **Curriculum development**: Participate in reviewing and refining the existing content and/or contribute to creating new modules.
 2. **Funding**: Support the program financially or help us identify funding opportunities.
 3. **Grant writing**: Help us secure funding by writing or assisting with grant applications.
 4. **Partnerships**: Collaborate with us to deliver the course (in a cohort-based training or workshop format) or connect us with organisations and individuals who could benefit.
