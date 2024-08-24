@@ -11,4 +11,4 @@ You can get involved in the following ways:
 
 ## How can I get started with contributing?
 
-1. Create an issue.
+1. Create an issue, describing the gap you've observed.
