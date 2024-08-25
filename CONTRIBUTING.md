@@ -11,4 +11,5 @@ You can get involved in the following ways:
 
 ## How can I get started with contributing?
 
-1. Create an issue, describing the gap you've observed.
+1. Create an issue:
+Before starting work on a new component or any improvements, create an issue to discuss the proposed changes with the community. This helps avoid duplicate work and ensures that your contributions align with the project's goals.
